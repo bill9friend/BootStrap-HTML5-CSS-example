@@ -1,0 +1,38 @@
+@charset "utf-8";
+*{
+	margin: 0px;
+	padding: 0px;	
+}
+
+/* CSS Document */
+/* ----------------- thumbnails label  -------------------- */
+.largeLabel{
+	font-family:myFont, Arial, Helvetica, sans-serif !important;
+	margin: 0px !important;
+	padding: 0px !important;
+	margin-right: 10px !important;
+	margin-left: 10px !important;
+	margin-top:15px !important;
+	font-size:17px !important;
+	font-weight:bold !important;
+	line-height:20px !important;
+	color:#FFFFFF !important;
+	text-align:center !important;
+	-webkit-font-smoothing: antialiased;
+}
+
+.smallLabel{
+	font-family:Arial, Helvetica, sans-serif !important;
+	margin: 0px !important;
+	padding: 0px !important;
+	margin: 6px !important;
+	margin-bottom:0px !important;
+	margin-right: 10px !important;
+	margin-left: 10px !important;
+	font-size:14px !important;
+	line-height:17px !important;
+	color:#CCCCCC !important;
+	text-align:center !important;
+	-webkit-font-smoothing: antialiased;
+	font-weight:100 !important;
+}
